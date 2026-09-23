@@ -2,7 +2,8 @@
     "app_id": "ebaum-scout-card-studio",
     "version": "0.9.2 Beta",
     "build": "2026.09.22",
-    "download_url": "",
+    "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/scout-card-studio-v0.9.2-beta/EBaumScoutCardStudio-0.9.2-Beta-2026.09.22.zip",
+    "sha256": "E39D68E0045FA04FA082D0493418298840C5D21E013728A8553BB2654C04F2C8",
     "release_notes": [
         "Internet update system test"
     ]
