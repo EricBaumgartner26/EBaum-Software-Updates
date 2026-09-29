@@ -1,14 +1,29 @@
 {
   "app_id": "ebaum-scout-card-studio",
-  "version": "0.9.3 Beta",
-  "build": "2026.09.25",
-  "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.3-beta/EBaumScoutCardStudio-0.9.3-Beta.zip",
-  "sha256": "07781EA7736B07C8D31142E32891BA7A4F68C693F0769E4B629511CA0AF09729",
-  "release_notes": [
-    "Production internet update system",
-    "Automatic update installation and relaunch",
-    "Update rollback protection",
-    "Protected user and staff data",
-    "Persistent updater logging"
-  ]
+  "version": "0.9.4 BETA",
+  "build": "2026.09.28",
+  "download_url": "...",
+  "sha256": "7D45E82316DDB999809ECCCC8B2B7B11C8EEA802513EC20501A553506E0889C6",
+  "release_notes": "What's New
+  INTERNET-BASED UPDATES (that's why you're seeing this)
+
+  Added new RIGHT-CLICK menus & edit options for improved efficiency
+
+  Added Option Branches for paths - (Right Click or Properties menu)
+
+  Expanded route and path editing
+
+  Improved individual segment selection and editing
+  Segment controls available directly in the Properties panel
+  Bracket Tool Improvements
+
+  Pass Protection - Full OL Drawing Improvements
+
+  Improved Playlist tools
+
+  Multi-select playlist actions
+  Duplicate selected plays
+  Duplicate + Flip selected plays
+  Remove multiple selected plays
+  Additional stability, selection, path editing, and UI improvements"
 }
