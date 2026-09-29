@@ -2,28 +2,7 @@
   "app_id": "ebaum-scout-card-studio",
   "version": "0.9.4 BETA",
   "build": "2026.09.28",
-  "download_url": "...",
+  "download_url": "PUT_ACTUAL_GITHUB_ZIP_URL_HERE",
   "sha256": "7D45E82316DDB999809ECCCC8B2B7B11C8EEA802513EC20501A553506E0889C6",
-  "release_notes": "What's New
-  INTERNET-BASED UPDATES (that's why you're seeing this)
-
-  Added new RIGHT-CLICK menus & edit options for improved efficiency
-
-  Added Option Branches for paths - (Right Click or Properties menu)
-
-  Expanded route and path editing
-
-  Improved individual segment selection and editing
-  Segment controls available directly in the Properties panel
-  Bracket Tool Improvements
-
-  Pass Protection - Full OL Drawing Improvements
-
-  Improved Playlist tools
-
-  Multi-select playlist actions
-  Duplicate selected plays
-  Duplicate + Flip selected plays
-  Remove multiple selected plays
-  Additional stability, selection, path editing, and UI improvements"
+  "release_notes": "What's New\n\nINTERNET-BASED UPDATES (that's why you're seeing this)\n\nAdded new RIGHT-CLICK menus & edit options for improved efficiency\n\nAdded Option Branches for paths - (Right Click or Properties menu)\n\nExpanded route and path editing\n\nImproved individual segment selection and editing\nSegment controls available directly in the Properties panel\nBracket Tool Improvements\n\nPass Protection - Full OL Drawing Improvements\n\nImproved Playlist tools\n\nMulti-select playlist actions\nDuplicate selected plays\nDuplicate + Flip selected plays\nRemove multiple selected plays\n\nAdditional stability, selection, path editing, and UI improvements"
 }
