@@ -1,15 +1,14 @@
-
 {
   "app_id": "ebaum-scout-card-studio",
-  "version": "0.9.5 Beta",
-  "build": "2026.10.19",
-  "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.5-beta/EBaumScoutCardStudio-v0.9.5-beta.zip",
-  "sha256": "8BB71506B28D1F1BCE9D8CF5544FB548FE3FCC359B69930080B5133A7759BD1E",
+  "version": "0.9.6 Beta",
+  "build": "2026.10.26",
+  "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.6-beta/EBaumScoutCardStudio-v0.9.6-beta.zip",
+  "sha256": "D60A8A39EA40EBFB63B721790D2ABDF538A1711479E74DFE5894EE2998B6E397",
   "release_notes": [
-    "Added Sunday and Game Day Thunder imports.",
-    "Added Thursday and Friday defensive coordinator calls.",
-    "Added Thursday defensive coordinator period support.",
-    "Improved multiple defensive call and period handling.",
-    "Improved playlist right-click duplication and multi-selection."
+    "Added Card Versions (Right-Click on playlist to change Card Version),
+    "Added Hinge Blocks",
+    "Player Color is now editable",
+    "Can use a computer folder as an import source instead of just individual databases",
+    "Text Boxes can now be multi-line - Shift+Enter or Ctrl+Enter to add a new line",
   ]
 }
