@@ -1,14 +1,14 @@
 
 {
-    "app_id": "ebaum-scout-card-studio",
-    "version": "0.9.7 Beta",
-    "build": "2026.11.22",
-    "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.7-beta/EBaumScoutCardStudio-v0.9.7-beta.zip",
-    "sha256": "4E788792E6393C8A403DC3532E205B671A80E00E3A61603D1C620EBA1E29CA69",
-    "release_notes": [
-        "Added defensive movement and man assignment drawing tools in early form",
-        "Improved scout card editing and workflow",
-        "Added card versions and library processes needed to implement it",
-        "Can now edit color of offensive players"
-    ]
+  "app_id": "ebaum-scout-card-studio",
+  "version": "0.9.7 Beta",
+  "build": "2026.11.22",
+  "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.7-beta/EBaumScoutCardStudio-v0.9.7-beta.zip",
+  "sha256": "4E788792E6393C8A403DC3532E205B671A80E00E3A61603D1C620EBA1E29CA69",
+  "release_notes": [
+    "Added defensive movement and man assignment drawing tools in early form",
+    "Improved scout card editing and workflow",
+    "Added card versions and library processes needed to implement it",
+    "Can now edit color of offensive players"
+  ]
 }
