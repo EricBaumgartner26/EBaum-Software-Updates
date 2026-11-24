@@ -3,7 +3,7 @@
     "version": "0.9.71 Beta",
     "build": "2026.11.24",
     "download_url": "https://github.com/EricBaumgartner26/EBaum-Software-Updates/releases/download/v0.9.71-beta/EBaumScoutCardStudio-v0.9.71-beta.zip",
-    "sha256": "369ACE845FDB94A7B62CE1449936D3CC2AB2FEC3F4E238C581F571498F0195ED",
+    "sha256": "85F9DC731A28038BD9215BE31FEF873343C0056CB800A3023DF39C7851A86E57",
     "release_notes": [
         "Improved playlist reordering speed.",
         "Improved playlist saving performance.",
